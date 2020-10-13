@@ -1,0 +1,7 @@
+**.pdf
+**.csv
+**.ipynb_checkpoints
+**.pyc
+yalefaces/
+yalefaces_cropped/
+debug.log
