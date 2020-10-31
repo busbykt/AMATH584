@@ -1,4 +1,4 @@
-A=importdata('C:\Users\Kelton\UW\AMATH584\Homework\hw3\A.csv');
+A=importdata('C:\Users\Kelton\UW\AMATH584\Homework\hw3\B.csv');
 A=reshape(A,[25,20]);
 [q,r] = qrfactor(A);
 [Q,R] = qr(A);
